@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string-array name="days_of_weak">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
